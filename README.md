@@ -109,9 +109,8 @@ Execute the program
 </body>
 </html>
 ```
-
-# OUPUT
-![OUTPUT](./outtime.png)
+## OUTPUT
+![outtime](https://user-images.githubusercontent.com/121165794/232856537-0fc4a129-717b-47ca-8273-5aec7ad5cf3c.png)
 
 ## RESULT
 program executed successfully
