@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE:
-```python
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
